@@ -1,0 +1,12 @@
+
+
+ .jumbotron {
+    background-color: darkcyan;
+    color: #fff;
+  }
+.home{
+  float: left;
+  padding-left: 20px;
+  padding-top: 50px;
+
+}

@@ -1,0 +1,19 @@
+
+.container { background: #F5F5DC; }
+.form-check{
+  padding-right: 40px;
+  border-spacing: 15px;
+}
+.form-check-input{
+  padding-right: 15px ;
+}
+.bg-4 {
+  background-color: #2f2f2f;
+  color: #ffffff;
+}
+.guestbook{
+  float: left;
+}
+.admin{
+  float: left;
+}
